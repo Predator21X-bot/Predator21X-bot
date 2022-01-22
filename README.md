@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://)**
-
 - 📫 How to reach me **psbksshreya@gmail.com**
 
 - ⚡ Hobby fact **I love to read books.**
