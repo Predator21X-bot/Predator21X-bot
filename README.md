@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://static.vecteezy.com/system/resources/previews/003/573/815/original/software-developer-semi-flat-color-character-sitting-figure-person-on-white-programmer-at-work-isolated-modern-cartoon-style-illustration-for-graphic-design-and-animation-vector.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shreya</h1>
 <h3 align="center">I'm a tech enthusiast and budding web developer.</h3>
