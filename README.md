@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=predator21x-bot&label=Profile%20views&color=0e75b6&style=flat" alt="predator21x-bot" /> </p>
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **psbksshreya@gmail.com**
 
